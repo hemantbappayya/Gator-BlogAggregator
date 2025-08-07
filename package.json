@@ -1,0 +1,27 @@
+{
+  "name": "gator-blogaggregator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemantbappayya/Gator-BlogAggregator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemantbappayya/Gator-BlogAggregator/issues"
+  },
+  "homepage": "https://github.com/hemantbappayya/Gator-BlogAggregator#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}
